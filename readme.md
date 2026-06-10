@@ -18,3 +18,6 @@ Tras la simulación masiva del torneo antes del pitido inicial, el modelo destac
 * **Data Warehouse:** Google BigQuery.
 * **Language & Libraries:** Python 3.12 (Pandas, NumPy, Google Cloud BigQuery Client).
 * **Visualization:** Power BI (Conexión directa vía BigQuery REST API).
+
+## 🚀 Replicabilidad Inmediata
+Si deseas saltarte la configuración de Google Cloud Platform y replicar directamente el modelo de datos o los cuadros de mando en Power BI/Excel, este repositorio incluye el archivo `reporte_probabilidades_gold.csv` con los resultados exactos de la última simulación masiva de 10.000 iteraciones del torneo.
